@@ -10,6 +10,10 @@ shinyUI(fluidPage(
         HTML("<b> Exploratory Analysis</b> tab can be used to perform exploratory analysis on mtcars dataset <br><b> 
            Linear Regression</b> tab can be used for performing linear regression on mtcars dataset <br> <b> Linear Regression on sample</b> tab can be used for performing linear
            regression on a sample of mtcars dataset. The sample can be selected using a brush."),
+        h4("The documentation and instructions for using the app can be found here:"),
+        h5(a("Dcoumentation for the App",href="http://rpubs.com/himank369123/shinymtcars")),
+        
+        
     
     
     tabsetPanel(
