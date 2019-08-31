@@ -1,0 +1,13 @@
+name: ShinyApp
+title: ShinyApp
+username:
+account: himankjn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1133599
+bundleId: 2373799
+url: https://himankjn.shinyapps.io/ShinyApp/
+when: 1567275894.5528
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ShinyGadgetInteractiveGraphics.R
